@@ -1,2 +1,2 @@
-# mltests
-Tensorflow and Machine Learning programs.
+# hershyz/mltests
+Python TensorFlow Tests.
